@@ -7,6 +7,9 @@ and at "%USERPROFILE%\AppData\Roaming\Telegram Desktop" on Windows.
 
 This tool can decrypt those files, which contains settings and cache files, but not chat histories because these are not included in tdata.
 
+## Building
+`go build ./telegram-desktop-decrypt`
+
 ## Usage
 
 ```
